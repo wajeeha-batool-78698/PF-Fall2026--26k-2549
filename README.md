@@ -47,4 +47,4 @@ git status
 git add .
 git commit -m "Initial commit"
 
-![My Image](pic1.jpg)
+<img width="575" height="383" alt="image" src="https://github.com/user-attachments/assets/83572795-28b8-4b3a-bed0-f8183aa87ae5" />
